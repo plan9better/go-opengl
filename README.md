@@ -5,6 +5,6 @@
 - Click mouse on window to start / stop them moving.
 
 # Screenshots
-[img1](docs/s1.png)
-[img2](docs/s2.png)
-[img3](docs/s3.png)
+![img1](docs/s1.png)
+![img2](docs/s2.png)
+![img3](docs/s3.png)
